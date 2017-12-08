@@ -6,4 +6,4 @@
 * lime
 * pepper
 * garlic
-* cilantro
+* sugar
