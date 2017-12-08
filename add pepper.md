@@ -1,3 +1,3 @@
 # Add pepper 
-1. grab pepper
-2. add  spoons
+1. with potatoes and __*pepper*__
+2. with __pizza__
