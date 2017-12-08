@@ -1,4 +1,4 @@
  # Guacamole recipe
  
- - List of ingredients
+ - [List of ingredients](ingredients)
  - Instructions for preparing guacamole
