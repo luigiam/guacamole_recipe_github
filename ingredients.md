@@ -5,4 +5,4 @@
 * lime
 * pepper
 * garlic
-* tabasco
+* olive oil
