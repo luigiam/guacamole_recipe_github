@@ -4,3 +4,5 @@
 * salt
 * lime
 * pepper
+* garlic
+* cilantro
