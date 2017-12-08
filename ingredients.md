@@ -5,4 +5,5 @@
 * lime
 * pepper
 * garlic
+* lemon
 * water
