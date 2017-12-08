@@ -4,4 +4,4 @@
 2. Chop *onion*
 3. Squeeze *lime*
 4. Add *salt*
-5. mix and squash __very__well
+5. mix and squash very well
