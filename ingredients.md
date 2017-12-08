@@ -5,4 +5,4 @@
 * lime
 * pepper
 * garlic
-* olive oil
+* water
